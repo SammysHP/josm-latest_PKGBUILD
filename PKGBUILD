@@ -4,7 +4,7 @@
 pkgname=josm-latest
 pkgver=latest
 pkgrel=4
-pkgdesc="An editor for OpenStreetMap written in Java (nightly build)."
+pkgdesc="Nightly build of an editor for OpenStreetMap written in Java."
 arch=('any')
 url="http://josm.openstreetmap.de/"
 license=('GPL')

@@ -2,8 +2,8 @@
 # Maintainer: Sven Karsten Greiner <sven@sammyshp.de>
 
 pkgname=josm-latest
-pkgver=latest
-pkgrel=5
+pkgver=6320
+pkgrel=1
 pkgdesc="Nightly build of an editor for OpenStreetMap written in Java."
 arch=('any')
 url="http://josm.openstreetmap.de/"
